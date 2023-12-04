@@ -24,4 +24,5 @@ Things you may want to cover:
 * ...
 
 
-##復習用
+##復習用です。
+- 削除予定

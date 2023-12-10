@@ -25,4 +25,4 @@ Things you may want to cover:
 
 
 ##復習用です。
-- 削除予定
+- 削除予定です。
